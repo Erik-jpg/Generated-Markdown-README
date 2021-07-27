@@ -63,11 +63,11 @@ function generateMarkdown(data) {
   return `# ${data.projectTitle}
 ${renderLicenseBadge(data.license)} ${renderLicenseLink(data.license)} ${renderLicenseSection(data.license)} 
 
-## Description
-${data.description} 
-
 ## Project Title
 ${data.projectTitle}
+
+## Description
+${data.description} 
 
 ## License
 ${data.license}
