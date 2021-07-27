@@ -64,13 +64,43 @@ function generateMarkdown(data) {
 ${renderLicenseBadge(data.license)} ${renderLicenseLink(data.license)} ${renderLicenseSection(data.license)} 
 
 ## Project Title
-${data.projectTitle}
+<h1 style="text-align:center">${data.projectTitle}</h1>
 
 ## Description
 ${data.description} 
 
 ## License
-${data.license}
+![badge](https://img.shields.io/badge/license-${data.license}-brightgreen)
+<br/>
+This project is using the ${data.license} license.
+
+## Table of Contents
+[Description](#description)
+[License](#license)
+[Installation](#installation)
+[Usage](#usage)
+[Questions](#questions)
+[Contributing](#contributing)
+[Tests](#tests)
+[Github](#github)
+
+## Installation
+${data.installation}
+
+## Usage
+${data.usage}
+
+## Contributing
+${data.contributing}
+
+## Tests
+${data.tests}
+
+## Questions
+Have any questions, contact me at: ${data.email} 
+
+## Github
+Or if you would like, more of my work can be found here: [${data.github}](https://github.com/${data.github})
 `;
 }
 
