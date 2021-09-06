@@ -3,6 +3,9 @@ This is the READNE.md for Homework09 for Node.js.
 
 MUST USE Screen-castify!!!
 
+Link to video:
+https://drive.google.com/file/d/1b6mth0UdOjTwkDAs46HC9e652AS12Zoz/view?usp=sharing
+
 Criteria!!!
 
 GIVEN a command-line application that accepts user input
