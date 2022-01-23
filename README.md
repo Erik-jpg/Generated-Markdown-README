@@ -1,25 +1,45 @@
-# Generated-Markdown-README
-This is the READNE.md for Homework09 for Node.js. 
+# Generated Markdown README
 
-MUST USE Screen-castify!!!
+![MIT_License](https://img.shields.io/badge/license-MIT-brightgreen)
 
-Link to video:
-https://drive.google.com/file/d/1b6mth0UdOjTwkDAs46HC9e652AS12Zoz/view?usp=sharing
 
-Criteria!!!
+## Description
+This app allows a user to enter information in a command line of an intergrated terminal and have Inquirer generate a professional README.md file. 
 
-GIVEN a command-line application that accepts user input
-WHEN I am prompted for information about my application repository
-THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
-WHEN I enter my project title
-THEN this is displayed as the title of the README
-WHEN I enter a description, installation instructions, usage information, contribution guidelines, and test instructions
-THEN this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests
-WHEN I choose a license for my application from a list of options
-THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under
-WHEN I enter my GitHub username
-THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile
-WHEN I enter my email address
-THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
-WHEN I click on the links in the Table of Contents
-THEN I am taken to the corresponding section of the README
+## License
+[MIT](https://opensource.org/licenses/MIT) 
+This project is using the MIT License license.
+MIT License
+Copyright (c) 2021 My github username is Erik-jpg
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE..
+
+## Table of Contents
+* [Description](#description)
+* [License](#license)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Questions](#questions)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Github](#github)
+
+## Installation
+All that is required to install this app is to copy the code and place it inside of an IDE and then answer the questions then hit enter.
+
+## Usage
+The uses for this app are to make a quality README.md file with the most efficency.
+
+## Contributing
+The way in which to contribute would simply be to email me with a notice of changes, I would be happy to try them out and then add them and give credit.
+
+## Tests
+The best way to preform a test with this app is to imput 'node run test' and it will run a script to look for errors.
+
+## Questions
+Have any questions, contact me at: spologas@gmail.com 
+
+## Github
+Or if you would like, more of my work can be found here: 
+[My github username is Erik-jpg](https://github.com/My github username is Erik-jpg)
